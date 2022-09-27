@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    background-color:antiquewhite;
+  }
+
+header{
+  position: relative;
+  padding-left:2px;
+  }
+
+
+nav{
+  position: absolute;
+  top 0;
+  right:10px;
+}
+.lists {
+  display: flex;
+  color: burlywood;
+  list-style-type:none;
+  text-align:center;
+  }
+
+.list{
+  color:burlywood;
+  padding-right:50px;
+  font-weight: bold;
+  font-size: 20px;
+  }
+
+.img{
+  width:1000px;
+}
+
+
+.introduction2{
+  padding-left: 10px;
+  text-align:left;
+  font-size:30px;  
+}
+h1{
+  padding-right: 50px;
+  font-weight: bold;
+  font-size: 100px;
+
+  
+}
+
+.img2{
+  width:300px;
+  
+}
